@@ -5,4 +5,5 @@ Time Management Sheet
 * Managers can download the working hours of emplyees in excelsheets.
 * We planned to build a single page application so we decided to use Angular for our frontend and Java for handling the API calls.
 * We are a team of eight and I am responsible for designing the user interfaces.
+* I am responsible for routing, designing the calendar and validating the inputs.
 
